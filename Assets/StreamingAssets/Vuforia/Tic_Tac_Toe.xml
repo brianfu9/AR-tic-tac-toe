@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="ttt_374" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_674" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_659" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_632" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_395" size="1.000000 0.998336" />
-    <ImageTarget name="ttt_347" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_274" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_259" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_247" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_6" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_5" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_3" size="1.000000 1.000000" />
-    <ImageTarget name="ttt_2" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_674u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_659u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_632u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_395u" size="1.000000 0.998336" />
+    <ImageTarget name="ttt_374u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_347u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_274u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_259u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_247u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_6u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_5u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_3u" size="1.000000 1.000000" />
+    <ImageTarget name="ttt_2u" size="1.000000 1.000000" />
   </Tracking>
 </QCARConfig>
